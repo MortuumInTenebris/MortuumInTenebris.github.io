@@ -2,9 +2,9 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import { BrowserRouter as Router, Route } from 'react-router-dom'
 
-import './style.css'
-import Services from './views/services'
-import Home from './views/home'
+import 'mortuumintenebris.github.io/style.css'
+import Services from 'mortuumintenebris.github.io/views/services'
+import Home from 'mortuumintenebris.github.io/views/home'
 
 const App = () => {
   return (
