@@ -10,8 +10,8 @@ const App = () => {
   return (
     <Router>
       <div>
-        <Route exact component={Services} path="/services" />
-        <Route exact component={Home} path="/" />
+        <Route exact component={Services} path="mortuumintenebris.github.io/services" />
+        <Route exact component={Home} path="mortuumintenebris.github.io/" />
       </div>
     </Router>
   )
