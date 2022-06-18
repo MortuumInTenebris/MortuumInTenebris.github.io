@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://mortuumintenebris.github.io/static/css/main.fbc8e8c7.chunk.css",
-    "main.js": "/static/js/main.6135d4ee.chunk.js",
-    "main.js.map": "/static/js/main.6135d4ee.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.eb7d7ad1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.eb7d7ad1.js.map",
-    "static/js/2.39aae794.chunk.js": "/static/js/2.39aae794.chunk.js",
-    "static/js/2.39aae794.chunk.js.map": "/static/js/2.39aae794.chunk.js.map",
+    "main.js": "https://mortuumintenebris.github.io/static/js/main.6135d4ee.chunk.js",
+    "main.js.map": "https://mortuumintenebris.github.io/static/js/main.6135d4ee.chunk.js.map",
+    "runtime-main.js": "https://mortuumintenebris.github.io/static/js/runtime-main.eb7d7ad1.js",
+    "runtime-main.js.map": "https://mortuumintenebris.github.io/static/js/runtime-main.eb7d7ad1.js.map",
+    "static/js/2.39aae794.chunk.js": "https://mortuumintenebris.github.io/static/js/2.39aae794.chunk.js",
+    "static/js/2.39aae794.chunk.js.map": "https://mortuumintenebris.github.io/static/js/2.39aae794.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.fbc8e8c7.chunk.css.map": "/static/css/main.fbc8e8c7.chunk.css.map",
-    "static/js/2.39aae794.chunk.js.LICENSE.txt": "/static/js/2.39aae794.chunk.js.LICENSE.txt"
+    "static/css/main.fbc8e8c7.chunk.css.map": "https://mortuumintenebris.github.io/static/css/main.fbc8e8c7.chunk.css.map",
+    "static/js/2.39aae794.chunk.js.LICENSE.txt": "https://mortuumintenebris.github.io/static/js/2.39aae794.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.eb7d7ad1.js",
-    "static/js/2.39aae794.chunk.js",
-    "static/css/main.fbc8e8c7.chunk.css",
-    "static/js/main.6135d4ee.chunk.js"
+    "https://mortuumintenebris.github.io/static/js/runtime-main.eb7d7ad1.js",
+    "https://mortuumintenebris.github.iostatic/js/2.39aae794.chunk.js",
+    "https://mortuumintenebris.github.io/static/css/main.fbc8e8c7.chunk.css",
+    "https://mortuumintenebris.github.io/static/js/main.6135d4ee.chunk.js"
   ]
 }
