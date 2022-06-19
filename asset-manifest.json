@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mortuumintenebris.github.io/static/css/main.9e8d24e5.chunk.css",
+    "main.js": "https://mortuumintenebris.github.io/static/js/main.de760df5.chunk.js",
+    "main.js.map": "https://mortuumintenebris.github.io/static/js/main.de760df5.chunk.js.map",
+    "runtime-main.js": "https://mortuumintenebris.github.io/static/js/runtime-main.eb7d7ad1.js",
+    "runtime-main.js.map": "https://mortuumintenebris.github.io/static/js/runtime-main.eb7d7ad1.js.map",
+    "static/js/2.6f71d2c2.chunk.js": "https://mortuumintenebris.github.io/static/js/2.6f71d2c2.chunk.js",
+    "static/js/2.6f71d2c2.chunk.js.map": "https://mortuumintenebris.github.io/static/js/2.6f71d2c2.chunk.js.map",
+    "index.html": "https://mortuumintenebris.github.io/index.html",
+    "static/css/main.9e8d24e5.chunk.css.map": "https://mortuumintenebris.github.io/static/css/main.9e8d24e5.chunk.css.map",
+    "static/js/2.6f71d2c2.chunk.js.LICENSE.txt": "https://mortuumintenebris.github.io/static/js/2.6f71d2c2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "https://mortuumintenebris.github.io/static/js/runtime-main.eb7d7ad1.js",
+    "https://mortuumintenebris.github.io/static/js/2.6f71d2c2.chunk.js",
+    "https://mortuumintenebris.github.io/static/css/main.9e8d24e5.chunk.css",
+    "https://mortuumintenebris.github.io/static/js/main.de760df5.chunk.js"
+  ]
+}
